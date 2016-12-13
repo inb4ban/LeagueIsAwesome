@@ -82,6 +82,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+        <Compile Include="Misc\Distance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
