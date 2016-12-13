@@ -82,7 +82,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-        <Compile Include="Misc\Distance.cs" />
+    <Compile Include="Misc\CheckTarget.cs" />
+    <Compile Include="Condemn\Flowers.cs" />
+    <Compile Include="Condemn\Gosu.cs" />
+    <Compile Include="Condemn\Lords.cs" />
+    <Compile Include="Condemn\Marksman.cs" />
+    <Compile Include="Condemn\OKTW.cs" />
+    <Compile Include="Condemn\OLDPRADA.cs" />
+    <Compile Include="Condemn\PradaUtils\Geometry.cs" />
+    <Compile Include="Condemn\PradaUtils\MyCache.cs" />
+    <Compile Include="Condemn\PradaUtils\Prada.cs" />
+    <Compile Include="Condemn\PRADALEAGACY.cs" />
+    <Compile Include="Condemn\PRADAPERFECT.cs" />
+    <Compile Include="Condemn\PRADASMART.cs" />
+    <Compile Include="Condemn\Sharpshooter.cs" />
+    <Compile Include="Condemn\Shine.cs" />
+    <Compile Include="Condemn\VHR.cs" />
+    <Compile Include="Misc\Distance.cs" />
+    <Compile Include="Events\AfterAttack.cs" />
+    <Compile Include="Events\BeforeAttack.cs" />
+    <Compile Include="Events\GameUpdate.cs" />
+    <Compile Include="Misc\zzRotCondemn.cs" />
+    <Compile Include="MyOrbwalker.cs" />
+    <Compile Include="Events\AntiGapCloser.cs" />
+    <Compile Include="Events\Game_SpellProcess .cs" />
+    <Compile Include="Events\Interrupter.cs" />
+    <Compile Include="Events\OnCreates.cs" />
+    <Compile Include="Events\Play.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="QLogic\Cursor.cs" />
+    <Compile Include="QLogic\Gosu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
