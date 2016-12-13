@@ -88,7 +88,6 @@
     <Compile Include="Events\BeforeAttack.cs" />
     <Compile Include="Events\GameUpdate.cs" />
     <Compile Include="Misc\zzRotCondemn.cs" />
-    <Compile Include="MyOrbwalker.cs" />
     <Compile Include="Events\AntiGapCloser.cs" />
     <Compile Include="Events\Game_SpellProcess .cs" />
     <Compile Include="Events\Interrupter.cs" />
